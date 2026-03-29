@@ -1,0 +1,218 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "fe4de010-8343-4248-a1ba-0b4a9034b26c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 100.33 58.42)
+		(size 41.91 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "675d025f-eeea-4859-baf0-94302a86ce27")
+		(property "Sheetname" "MCU"
+			(at 100.33 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 100.33 92.0246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 45.72 58.42)
+		(size 36.83 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6d3060b6-5cde-4c96-8702-b6db72026b7d")
+		(property "Sheetname" "Power and USB"
+			(at 45.72 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_and_usb.kicad_sch"
+			(at 45.72 90.7546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D_N" bidirectional
+			(at 82.55 71.12 0)
+			(uuid "da2f7748-d473-4161-9b07-a528749a4131")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D_P" bidirectional
+			(at 82.55 73.66 0)
+			(uuid "d05b3e2a-a41b-48f1-bfeb-c06b2528ad06")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 113.03)
+		(size 40.64 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "893a7fdc-6f34-4501-993f-cd0bf5707e1d")
+		(property "Sheetname" "RGB_LEDs"
+			(at 99.06 112.3184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rgb_leds.kicad_sch"
+			(at 99.06 144.0946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 58.42)
+		(size 40.64 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bfd332b4-da57-425a-99ac-2633d90443c6")
+		(property "Sheetname" "Switch Matrix"
+			(at 157.48 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "switch_matrix.kicad_sch"
+			(at 157.48 92.0246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -7,17 +7,27 @@
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 82.55 71.12) (xy 100.33 71.12)
+			(xy 62.23 86.36) (xy 78.74 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ef180c1-2e35-4432-beac-f3f80069fc53")
+		(uuid "97081ef3-93e4-4ed5-904b-54daaba77ac0")
 	)
 	(wire
 		(pts
-			(xy 82.55 73.66) (xy 100.33 73.66)
+			(xy 118.11 46.99) (xy 118.11 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f742716d-f8e7-468b-b8e8-448e3337f843")
+	)
+	(wire
+		(pts
+			(xy 62.23 88.9) (xy 78.74 88.9)
 		)
 		(stroke
 			(width 0)
@@ -25,9 +35,19 @@
 		)
 		(uuid "fa930c8d-4c22-4b32-b13a-838111a34d5d")
 	)
+	(wire
+		(pts
+			(xy 120.65 46.99) (xy 120.65 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbf5f13c-216c-4e54-8e30-607670ff89fa")
+	)
 	(sheet
-		(at 100.33 58.42)
-		(size 41.91 33.02)
+		(at 78.74 57.15)
+		(size 83.82 67.31)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -42,7 +62,7 @@
 		)
 		(uuid "675d025f-eeea-4859-baf0-94302a86ce27")
 		(property "Sheetname" "MCU (page 3)"
-			(at 100.33 57.7084 0)
+			(at 78.74 56.4384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,8 +72,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MCU_and_EEPROM.kicad_sch"
-			(at 100.33 92.0246 0)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 78.74 125.0446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -64,7 +84,7 @@
 			)
 		)
 		(pin "USB_D_N" bidirectional
-			(at 100.33 71.12 180)
+			(at 78.74 86.36 180)
 			(uuid "ade9e201-1e4c-45d7-82c7-8c18c7424773")
 			(effects
 				(font
@@ -74,13 +94,293 @@
 			)
 		)
 		(pin "USB_D_P" bidirectional
-			(at 100.33 73.66 180)
+			(at 78.74 88.9 180)
 			(uuid "222c39d0-eb87-471b-99d7-28adfd7a2104")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "COL0" bidirectional
+			(at 162.56 63.5 0)
+			(uuid "368db331-733b-4da6-8856-9b0ace10d693")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL1" bidirectional
+			(at 162.56 66.04 0)
+			(uuid "4e684fbd-eb8f-4de4-bf4a-1edb1ca8a256")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL2" bidirectional
+			(at 162.56 68.58 0)
+			(uuid "84535fcd-3e8f-41db-8164-08093d6baef9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL3" bidirectional
+			(at 162.56 71.12 0)
+			(uuid "20dc19ed-f599-4b60-9bbb-48f657a8de66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL4" bidirectional
+			(at 162.56 73.66 0)
+			(uuid "2986bb94-0158-48af-9db1-5427b174ea65")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL5" bidirectional
+			(at 162.56 76.2 0)
+			(uuid "3e5b6c1c-486f-4c53-9406-54283604d082")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL6" bidirectional
+			(at 162.56 78.74 0)
+			(uuid "4a70e70a-09e7-4944-a224-1670a255f0fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL7" bidirectional
+			(at 162.56 81.28 0)
+			(uuid "148fa95e-a198-4a1a-854a-6f773f666344")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL8" bidirectional
+			(at 162.56 83.82 0)
+			(uuid "8f5cef1a-503b-4077-81ca-56dde6866fea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL9" bidirectional
+			(at 162.56 86.36 0)
+			(uuid "08275cca-c806-4945-8dbd-f44b4d1404a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL10" bidirectional
+			(at 162.56 88.9 0)
+			(uuid "bdd82f6c-46b4-4694-b588-406fa7755b5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL11" bidirectional
+			(at 162.56 91.44 0)
+			(uuid "0e47688c-06d9-445d-8616-d4211099fe73")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL12" bidirectional
+			(at 162.56 93.98 0)
+			(uuid "964f33c6-9342-4363-bb9c-a7fff2b05aa2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL13" bidirectional
+			(at 162.56 96.52 0)
+			(uuid "59a8a767-b2af-45af-91a2-97802f4f5088")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL14" bidirectional
+			(at 162.56 99.06 0)
+			(uuid "e1c26d8a-2d04-46e3-bdb3-272249694e14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EEPROM_SCL" output
+			(at 120.65 57.15 90)
+			(uuid "524d9048-7b5c-4f41-85f3-827bfd1374a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EEPROM_SDA" bidirectional
+			(at 118.11 57.15 90)
+			(uuid "c3dc05c0-3dca-4a38-ae1a-2ae4d5fc76a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED_DATA" output
+			(at 90.17 124.46 270)
+			(uuid "57b277d7-4c30-49e3-82d0-e93ff5babee5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ROW0" bidirectional
+			(at 162.56 105.41 0)
+			(uuid "4e0a866d-91af-4bd4-9854-52a4d4d9fe4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW1" bidirectional
+			(at 162.56 107.95 0)
+			(uuid "7795a0da-c85e-4d87-a225-a1917887749c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW2" bidirectional
+			(at 162.56 110.49 0)
+			(uuid "a5cb9463-e961-49e1-8b90-ba73ae2fbf8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW3" bidirectional
+			(at 162.56 113.03 0)
+			(uuid "ea4b3df1-4dd0-480a-8067-431364eb8a53")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW4" bidirectional
+			(at 162.56 115.57 0)
+			(uuid "d0d7244d-a873-4411-80a7-aaaf54e9d524")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW5" bidirectional
+			(at 162.56 118.11 0)
+			(uuid "e02bfefa-70f9-4481-8f1c-24d09f4696ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCREEN_CS" bidirectional
+			(at 129.54 57.15 90)
+			(uuid "a0d87192-9cb8-4262-b8ad-4c6e8a67fa01")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCREEN_DS" bidirectional
+			(at 132.08 57.15 90)
+			(uuid "3668ed4e-0d7a-441f-8d49-4905310488c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCREEN_SCL" bidirectional
+			(at 134.62 57.15 90)
+			(uuid "d5f0ea23-0557-4fdd-9582-e078b5eda38a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCREEN_SDA" bidirectional
+			(at 137.16 57.15 90)
+			(uuid "bac09e8c-d169-4f5e-935b-56dc3afb15ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -92,7 +392,7 @@
 		)
 	)
 	(sheet
-		(at 45.72 58.42)
+		(at 25.4 73.66)
 		(size 36.83 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -108,7 +408,7 @@
 		)
 		(uuid "6d3060b6-5cde-4c96-8702-b6db72026b7d")
 		(property "Sheetname" "Power and USB"
-			(at 45.72 57.7084 0)
+			(at 25.4 72.9484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -119,7 +419,7 @@
 			)
 		)
 		(property "Sheetfile" "power_and_usb.kicad_sch"
-			(at 45.72 90.7546 0)
+			(at 25.4 105.9946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -130,7 +430,7 @@
 			)
 		)
 		(pin "USB_D_N" bidirectional
-			(at 82.55 71.12 0)
+			(at 62.23 86.36 0)
 			(uuid "da2f7748-d473-4161-9b07-a528749a4131")
 			(effects
 				(font
@@ -140,7 +440,7 @@
 			)
 		)
 		(pin "USB_D_P" bidirectional
-			(at 82.55 73.66 0)
+			(at 62.23 88.9 0)
 			(uuid "d05b3e2a-a41b-48f1-bfeb-c06b2528ad06")
 			(effects
 				(font
@@ -158,8 +458,8 @@
 		)
 	)
 	(sheet
-		(at 100.33 19.05)
-		(size 41.91 29.21)
+		(at 78.74 17.78)
+		(size 83.82 29.21)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -174,7 +474,7 @@
 		)
 		(uuid "735cb541-7b7a-461f-b38e-cddf54100f29")
 		(property "Sheetname" "Peripherals"
-			(at 100.33 18.3384 0)
+			(at 78.74 17.0684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -185,7 +485,7 @@
 			)
 		)
 		(property "Sheetfile" "peripherals.kicad_sch"
-			(at 100.33 48.8446 0)
+			(at 78.74 47.5746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -193,6 +493,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "EEPROM_SCL" input
+			(at 120.65 46.99 270)
+			(uuid "b0e6161f-96fe-4466-a3d4-04e7bb6db7e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EEPROM_SDA" bidirectional
+			(at 118.11 46.99 270)
+			(uuid "c7a7bff7-cbb9-463b-8533-ee0eabcd3682")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -204,7 +524,7 @@
 		)
 	)
 	(sheet
-		(at 99.06 113.03)
+		(at 88.9 138.43)
 		(size 40.64 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -220,7 +540,7 @@
 		)
 		(uuid "893a7fdc-6f34-4501-993f-cd0bf5707e1d")
 		(property "Sheetname" "RGB_LEDs"
-			(at 99.06 112.3184 0)
+			(at 88.9 137.7184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -231,7 +551,7 @@
 			)
 		)
 		(property "Sheetfile" "rgb_leds.kicad_sch"
-			(at 99.06 144.0946 0)
+			(at 88.9 169.4946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -250,8 +570,8 @@
 		)
 	)
 	(sheet
-		(at 157.48 58.42)
-		(size 40.64 33.02)
+		(at 179.07 57.15)
+		(size 73.66 67.31)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -266,7 +586,7 @@
 		)
 		(uuid "bfd332b4-da57-425a-99ac-2633d90443c6")
 		(property "Sheetname" "Switch Matrix"
-			(at 157.48 57.7084 0)
+			(at 179.07 56.4384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -277,7 +597,7 @@
 			)
 		)
 		(property "Sheetfile" "switch_matrix.kicad_sch"
-			(at 157.48 92.0246 0)
+			(at 179.07 125.0446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

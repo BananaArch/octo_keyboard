@@ -5,6 +5,26 @@
 	(uuid "fe4de010-8343-4248-a1ba-0b4a9034b26c")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 82.55 71.12) (xy 100.33 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ef180c1-2e35-4432-beac-f3f80069fc53")
+	)
+	(wire
+		(pts
+			(xy 82.55 73.66) (xy 100.33 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa930c8d-4c22-4b32-b13a-838111a34d5d")
+	)
 	(sheet
 		(at 100.33 58.42)
 		(size 41.91 33.02)
@@ -21,7 +41,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "675d025f-eeea-4859-baf0-94302a86ce27")
-		(property "Sheetname" "MCU"
+		(property "Sheetname" "MCU (page 3)"
 			(at 100.33 57.7084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32,7 +52,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MCU.kicad_sch"
+		(property "Sheetfile" "MCU_and_EEPROM.kicad_sch"
 			(at 100.33 92.0246 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41,6 +61,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "USB_D_N" bidirectional
+			(at 100.33 71.12 180)
+			(uuid "ade9e201-1e4c-45d7-82c7-8c18c7424773")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D_P" bidirectional
+			(at 100.33 73.66 180)
+			(uuid "222c39d0-eb87-471b-99d7-28adfd7a2104")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -113,6 +153,52 @@
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 19.05)
+		(size 41.91 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "735cb541-7b7a-461f-b38e-cddf54100f29")
+		(property "Sheetname" "Peripherals"
+			(at 100.33 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 100.33 48.8446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86"
+					(page "6")
 				)
 			)
 		)

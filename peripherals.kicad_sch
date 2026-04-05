@@ -1705,6 +1705,17 @@
 		)
 		(uuid "00030598-44bf-49b3-8007-38d4a1de126f")
 	)
+	(hierarchical_label "SPEAKER"
+		(shape input)
+		(at 39.37 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "27f90c91-9bb5-4170-920d-ac75184c67ce")
+	)
 	(hierarchical_label "ENC_SW"
 		(shape bidirectional)
 		(at 74.93 111.76 0)
@@ -1792,6 +1803,17 @@
 			(justify left)
 		)
 		(uuid "e8acfd48-b1fe-483f-9dbc-88a0a24c5fb8")
+	)
+	(hierarchical_label "HAPTIC_MOTOR"
+		(shape input)
+		(at 111.76 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f038457e-7549-42ff-9f3f-7a54ed9a1c3b")
 	)
 	(symbol
 		(lib_id "power:GND")

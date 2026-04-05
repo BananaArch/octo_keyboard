@@ -5010,6 +5010,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5088,6 +5094,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5162,6 +5174,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR018")
 					(unit 1)
 				)
@@ -5253,6 +5271,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5340,6 +5364,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5418,6 +5448,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5492,6 +5528,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR050")
 					(unit 1)
 				)
@@ -5583,6 +5625,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5657,6 +5705,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0151")
 					(unit 1)
 				)
@@ -5739,6 +5793,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0230")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5813,6 +5873,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR047")
 					(unit 1)
 				)
@@ -5895,6 +5961,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0113")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5973,6 +6045,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0189")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6047,6 +6125,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR097")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR097")
 					(unit 1)
 				)
@@ -6138,6 +6222,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D77")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6212,6 +6302,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR060")
 					(unit 1)
 				)
@@ -6303,6 +6399,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D32")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6377,6 +6479,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0192")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0192")
 					(unit 1)
 				)
@@ -6459,6 +6567,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C36")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C36")
 					(unit 1)
 				)
@@ -6550,6 +6664,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D40")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6628,6 +6748,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C82")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C82")
 					(unit 1)
 				)
@@ -6719,6 +6845,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D47")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6793,6 +6925,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0115")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0115")
 					(unit 1)
 				)
@@ -6884,6 +7022,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D70")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6962,6 +7106,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0141")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7036,6 +7186,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0229")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0229")
 					(unit 1)
 				)
@@ -7127,6 +7283,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7201,6 +7363,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0153")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0153")
 					(unit 1)
 				)
@@ -7283,6 +7451,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C61")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C61")
 					(unit 1)
 				)
@@ -7374,6 +7548,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D61")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7452,6 +7632,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C35")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C35")
 					(unit 1)
 				)
@@ -7543,6 +7729,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7621,6 +7813,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7695,6 +7893,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0168")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0168")
 					(unit 1)
 				)
@@ -7781,6 +7985,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C76")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7855,6 +8065,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR045")
 					(unit 1)
 				)
@@ -7937,6 +8153,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0170")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8011,6 +8233,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0253")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0253")
 					(unit 1)
 				)
@@ -8093,6 +8321,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8171,6 +8405,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8245,6 +8485,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0239")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0239")
 					(unit 1)
 				)
@@ -8331,6 +8577,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C31")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8409,6 +8661,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0225")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8483,6 +8741,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0119")
 					(unit 1)
 				)
@@ -8569,6 +8833,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C23")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8643,6 +8913,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR019")
 					(unit 1)
 				)
@@ -8729,6 +9005,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C65")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8803,6 +9085,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0112")
 					(unit 1)
 				)
@@ -8889,6 +9177,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C66")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8963,6 +9257,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0164")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0164")
 					(unit 1)
 				)
@@ -9045,6 +9345,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9123,6 +9429,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C27")
 					(unit 1)
 				)
@@ -9214,6 +9526,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D78")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9296,6 +9614,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C33")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9370,6 +9694,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0185")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0185")
 					(unit 1)
 				)
@@ -9452,6 +9782,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0198")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9526,6 +9862,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0199")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0199")
 					(unit 1)
 				)
@@ -9612,6 +9954,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9690,6 +10038,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0244")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9764,6 +10118,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR013")
 					(unit 1)
 				)
@@ -9850,6 +10210,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9932,6 +10298,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C29")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10006,6 +10378,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0231")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0231")
 					(unit 1)
 				)
@@ -10088,6 +10466,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10162,6 +10546,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0169")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0169")
 					(unit 1)
 				)
@@ -10248,6 +10638,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10330,6 +10726,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C71")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10408,6 +10810,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10482,6 +10890,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0214")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0214")
 					(unit 1)
 				)
@@ -10573,6 +10987,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10656,6 +11076,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "D54")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "D54")
 					(unit 1)
 				)
@@ -10747,6 +11173,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D72")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10821,6 +11253,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0121")
 					(unit 1)
 				)
@@ -10903,6 +11341,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10981,6 +11425,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C2")
 					(unit 1)
 				)
@@ -11072,6 +11522,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D58")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11146,6 +11602,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0216")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0216")
 					(unit 1)
 				)
@@ -11237,6 +11699,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D48")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11315,6 +11783,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0125")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11389,6 +11863,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR08")
 					(unit 1)
 				)
@@ -11480,6 +11960,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D29")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11554,6 +12040,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0227")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0227")
 					(unit 1)
 				)
@@ -11636,6 +12128,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11710,6 +12208,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR064")
 					(unit 1)
 				)
@@ -11792,6 +12296,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11866,6 +12376,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR044")
 					(unit 1)
 				)
@@ -11948,6 +12464,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR098")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12022,6 +12544,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0197")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0197")
 					(unit 1)
 				)
@@ -12108,6 +12636,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C67")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12186,6 +12720,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR080")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12260,6 +12800,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR088")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR088")
 					(unit 1)
 				)
@@ -12351,6 +12897,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D76")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12429,6 +12981,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C16")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C16")
 					(unit 1)
 				)
@@ -12520,6 +13078,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D63")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12594,6 +13158,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0137")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0137")
 					(unit 1)
 				)
@@ -12676,6 +13246,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12750,6 +13326,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0116")
 					(unit 1)
 				)
@@ -12841,6 +13423,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12915,6 +13503,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR05")
 					(unit 1)
 				)
@@ -12997,6 +13591,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13071,6 +13671,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0181")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0181")
 					(unit 1)
 				)
@@ -13153,6 +13759,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0213")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13227,6 +13839,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR032")
 					(unit 1)
 				)
@@ -13309,6 +13927,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13387,6 +14011,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C11")
 					(unit 1)
 				)
@@ -13478,6 +14108,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D66")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13552,6 +14188,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0246")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0246")
 					(unit 1)
 				)
@@ -13634,6 +14276,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0156")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13708,6 +14356,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0142")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0142")
 					(unit 1)
 				)
@@ -13790,6 +14444,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0220")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13864,6 +14524,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0247")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0247")
 					(unit 1)
 				)
@@ -13946,6 +14612,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14024,6 +14696,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14098,6 +14776,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0224")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0224")
 					(unit 1)
 				)
@@ -14184,6 +14868,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C86")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14262,6 +14952,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14336,6 +15032,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0152")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0152")
 					(unit 1)
 				)
@@ -14422,6 +15124,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C57")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14500,6 +15208,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14574,6 +15288,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR048")
 					(unit 1)
 				)
@@ -14660,6 +15380,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C46")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14734,6 +15460,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0131")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0131")
 					(unit 1)
 				)
@@ -14816,6 +15548,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0217")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14890,6 +15628,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR016")
 					(unit 1)
 				)
@@ -14981,6 +15725,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15068,6 +15818,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D51")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15142,6 +15898,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR012")
 					(unit 1)
 				)
@@ -15233,6 +15995,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D71")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15307,6 +16075,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0250")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0250")
 					(unit 1)
 				)
@@ -15393,6 +16167,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C43")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15467,6 +16247,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR010")
 					(unit 1)
 				)
@@ -15549,6 +16335,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0255")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15627,6 +16419,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C25")
 					(unit 1)
 				)
@@ -15718,6 +16516,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D83")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15796,6 +16600,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15870,6 +16680,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR052")
 					(unit 1)
 				)
@@ -15961,6 +16777,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16039,6 +16861,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C13")
 					(unit 1)
 				)
@@ -16130,6 +16958,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D57")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16204,6 +17038,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0202")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0202")
 					(unit 1)
 				)
@@ -16286,6 +17126,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C41")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C41")
 					(unit 1)
 				)
@@ -16377,6 +17223,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D26")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16451,6 +17303,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0252")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0252")
 					(unit 1)
 				)
@@ -16533,6 +17391,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0241")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16607,6 +17471,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0184")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0184")
 					(unit 1)
 				)
@@ -16689,6 +17559,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16763,6 +17639,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0201")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0201")
 					(unit 1)
 				)
@@ -16849,6 +17731,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C48")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16927,6 +17815,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C15")
 					(unit 1)
 				)
@@ -17013,6 +17907,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C77")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17087,6 +17987,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0243")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0243")
 					(unit 1)
 				)
@@ -17178,6 +18084,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D59")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17265,6 +18177,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17339,6 +18257,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0182")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0182")
 					(unit 1)
 				)
@@ -17421,6 +18345,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17495,6 +18425,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0190")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0190")
 					(unit 1)
 				)
@@ -17586,6 +18522,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17668,6 +18610,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C47")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17742,6 +18690,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0251")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0251")
 					(unit 1)
 				)
@@ -17824,6 +18778,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0235")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17898,6 +18858,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0157")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0157")
 					(unit 1)
 				)
@@ -17980,6 +18946,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C52")
 					(unit 1)
 				)
@@ -18071,6 +19043,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18149,6 +19127,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18223,6 +19207,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0140")
 					(unit 1)
 				)
@@ -18309,6 +19299,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18387,6 +19383,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C74")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C74")
 					(unit 1)
 				)
@@ -18485,6 +19487,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18559,6 +19567,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0160")
 					(unit 1)
 				)
@@ -18641,6 +19655,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0203")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18719,6 +19739,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18793,6 +19819,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0238")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0238")
 					(unit 1)
 				)
@@ -18884,6 +19916,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D28")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18962,6 +20000,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C59")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C59")
 					(unit 1)
 				)
@@ -19048,6 +20092,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19126,6 +20176,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19200,6 +20256,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0144")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0144")
 					(unit 1)
 				)
@@ -19291,6 +20353,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D39")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19365,6 +20433,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0109")
 					(unit 1)
 				)
@@ -19447,6 +20521,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR085")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19525,6 +20605,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR069")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19599,6 +20685,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0102")
 					(unit 1)
 				)
@@ -19685,6 +20777,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C84")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19763,6 +20861,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19837,6 +20941,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR086")
 					(unit 1)
 				)
@@ -19928,6 +21038,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D64")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20002,6 +21118,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR034")
 					(unit 1)
 				)
@@ -20084,6 +21206,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0196")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20158,6 +21286,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR027")
 					(unit 1)
 				)
@@ -20240,6 +21374,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C49")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C49")
 					(unit 1)
 				)
@@ -20331,6 +21471,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20409,6 +21555,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20483,6 +21635,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0165")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0165")
 					(unit 1)
 				)
@@ -20569,6 +21727,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20647,6 +21811,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20721,6 +21891,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0159")
 					(unit 1)
 				)
@@ -20812,6 +21988,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D82")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20886,6 +22068,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0221")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0221")
 					(unit 1)
 				)
@@ -20997,6 +22185,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21075,6 +22269,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C39")
 					(unit 1)
 				)
@@ -21166,6 +22366,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D81")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21240,6 +22446,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR021")
 					(unit 1)
 				)
@@ -21326,6 +22538,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21408,6 +22626,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21486,6 +22710,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21560,6 +22790,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0205")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0205")
 					(unit 1)
 				)
@@ -21646,6 +22882,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C37")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21720,6 +22962,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0154")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0154")
 					(unit 1)
 				)
@@ -21802,6 +23050,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0180")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21876,6 +23130,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0130")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0130")
 					(unit 1)
 				)
@@ -21967,6 +23227,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D27")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22049,6 +23315,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22123,6 +23395,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR082")
 					(unit 1)
 				)
@@ -22234,6 +23512,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22308,6 +23592,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0236")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0236")
 					(unit 1)
 				)
@@ -22390,6 +23680,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0167")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22468,6 +23764,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0188")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22542,6 +23844,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0132")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0132")
 					(unit 1)
 				)
@@ -22628,6 +23936,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C68")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22710,6 +24024,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C80")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22784,6 +24104,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR029")
 					(unit 1)
 				)
@@ -22866,6 +24192,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0207")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22940,6 +24272,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR049")
 					(unit 1)
 				)
@@ -23026,6 +24364,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C32")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23100,6 +24444,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR053")
 					(unit 1)
 				)
@@ -23182,6 +24532,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR099")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23256,6 +24612,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0242")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0242")
 					(unit 1)
 				)
@@ -23347,6 +24709,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23421,6 +24789,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR074")
 					(unit 1)
 				)
@@ -23507,6 +24881,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C55")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23581,6 +24961,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0176")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0176")
 					(unit 1)
 				)
@@ -23663,6 +25049,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0186")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23741,6 +25133,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C42")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C42")
 					(unit 1)
 				)
@@ -23832,6 +25230,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D38")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23919,6 +25323,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23993,6 +25403,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0111")
 					(unit 1)
 				)
@@ -24075,6 +25491,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24149,6 +25571,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0145")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0145")
 					(unit 1)
 				)
@@ -24231,6 +25659,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24305,6 +25739,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR015")
 					(unit 1)
 				)
@@ -24396,6 +25836,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D84")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24474,6 +25920,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR095")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24548,6 +26000,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR028")
 					(unit 1)
 				)
@@ -24639,6 +26097,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D65")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24713,6 +26177,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0191")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0191")
 					(unit 1)
 				)
@@ -24804,6 +26274,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D73")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24886,6 +26362,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C60")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24960,6 +26442,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0138")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0138")
 					(unit 1)
 				)
@@ -25046,6 +26534,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C81")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25120,6 +26614,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR040")
 					(unit 1)
 				)
@@ -25211,6 +26711,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25293,6 +26799,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C26")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25371,6 +26883,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0228")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25445,6 +26963,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0139")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0139")
 					(unit 1)
 				)
@@ -25531,6 +27055,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C75")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25609,6 +27139,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR091")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25683,6 +27219,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR093")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR093")
 					(unit 1)
 				)
@@ -25774,6 +27316,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D30")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25848,6 +27396,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0240")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0240")
 					(unit 1)
 				)
@@ -25930,6 +27484,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26004,6 +27564,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0195")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0195")
 					(unit 1)
 				)
@@ -26090,6 +27656,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C64")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26168,6 +27740,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C72")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C72")
 					(unit 1)
 				)
@@ -26259,6 +27837,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26337,6 +27921,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0232")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26411,6 +28001,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0211")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0211")
 					(unit 1)
 				)
@@ -26497,6 +28093,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C18")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26575,6 +28177,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C50")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C50")
 					(unit 1)
 				)
@@ -26661,6 +28269,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C70")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26735,6 +28349,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR022")
 					(unit 1)
 				)
@@ -26826,6 +28446,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D67")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26913,6 +28539,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26987,6 +28619,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0245")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0245")
 					(unit 1)
 				)
@@ -27069,6 +28707,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27147,6 +28791,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0162")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27221,6 +28871,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR092")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR092")
 					(unit 1)
 				)
@@ -27307,6 +28963,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C83")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27381,6 +29043,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0200")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0200")
 					(unit 1)
 				)
@@ -27467,6 +29135,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C40")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27549,6 +29223,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27627,6 +29307,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27701,6 +29387,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0179")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0179")
 					(unit 1)
 				)
@@ -27787,6 +29479,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C58")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27861,6 +29559,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0163")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0163")
 					(unit 1)
 				)
@@ -27952,6 +29656,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D25")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28034,6 +29744,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C78")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28108,6 +29824,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0172")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0172")
 					(unit 1)
 				)
@@ -28199,6 +29921,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28273,6 +30001,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR07")
 					(unit 1)
 				)
@@ -28359,6 +30093,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C51")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28433,6 +30173,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0177")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0177")
 					(unit 1)
 				)
@@ -28524,6 +30270,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D49")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28598,6 +30350,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0204")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0204")
 					(unit 1)
 				)
@@ -28684,6 +30442,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28758,6 +30522,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0248")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0248")
 					(unit 1)
 				)
@@ -28844,6 +30614,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C85")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28918,6 +30694,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR055")
 					(unit 1)
 				)
@@ -29000,6 +30782,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0223")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29078,6 +30866,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0122")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29152,6 +30946,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0171")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0171")
 					(unit 1)
 				)
@@ -29238,6 +31038,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C73")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29312,6 +31118,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0218")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0218")
 					(unit 1)
 				)
@@ -29394,6 +31206,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29468,6 +31286,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0193")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0193")
 					(unit 1)
 				)
@@ -29559,6 +31383,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D75")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29641,6 +31471,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29715,6 +31551,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR057")
 					(unit 1)
 				)
@@ -29797,6 +31639,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29871,6 +31719,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0126")
 					(unit 1)
 				)
@@ -29957,6 +31811,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C69")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30031,6 +31891,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0123")
 					(unit 1)
 				)
@@ -30122,6 +31988,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30196,6 +32068,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR063")
 					(unit 1)
 				)
@@ -30287,6 +32165,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D56")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30369,6 +32253,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30447,6 +32337,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0143")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30521,6 +32417,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR071")
 					(unit 1)
 				)
@@ -30612,6 +32514,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D42")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30686,6 +32594,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR058")
 					(unit 1)
 				)
@@ -30772,6 +32686,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C28")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30850,6 +32770,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C63")
 					(unit 1)
 				)
@@ -30941,6 +32867,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D68")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31015,6 +32947,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0146")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0146")
 					(unit 1)
 				)
@@ -31106,6 +33044,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D60")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31193,6 +33137,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D45")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31267,6 +33217,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR072")
 					(unit 1)
 				)
@@ -31358,6 +33314,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D43")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31436,6 +33398,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C53")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C53")
 					(unit 1)
 				)
@@ -31522,6 +33490,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C79")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31596,6 +33570,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR084")
 					(unit 1)
 				)
@@ -31678,6 +33658,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31752,6 +33738,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0134")
 					(unit 1)
 				)
@@ -31834,6 +33826,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31908,6 +33906,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0209")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0209")
 					(unit 1)
 				)
@@ -31990,6 +33994,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32064,6 +34074,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR023")
 					(unit 1)
 				)
@@ -32146,6 +34162,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32220,6 +34242,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0174")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0174")
 					(unit 1)
 				)
@@ -32302,6 +34330,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32380,6 +34414,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0254")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32454,6 +34494,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR014")
 					(unit 1)
 				)
@@ -32545,6 +34591,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D37")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32632,6 +34684,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D62")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32706,6 +34764,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0256")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0256")
 					(unit 1)
 				)
@@ -32797,6 +34861,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32875,6 +34945,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32949,6 +35025,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0206")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0206")
 					(unit 1)
 				)
@@ -33040,6 +35122,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D80")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33122,6 +35210,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C56")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33200,6 +35294,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0100")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33274,6 +35374,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0249")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0249")
 					(unit 1)
 				)
@@ -33365,6 +35471,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D23")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33439,6 +35551,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0212")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0212")
 					(unit 1)
 				)
@@ -33521,6 +35639,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR096")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33595,6 +35719,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR030")
 					(unit 1)
 				)
@@ -33677,6 +35807,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0234")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33751,6 +35887,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0257")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0257")
 					(unit 1)
 				)
@@ -33833,6 +35975,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0215")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33907,6 +36055,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0147")
 					(unit 1)
 				)
@@ -33998,6 +36152,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D31")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34085,6 +36245,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D41")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34159,6 +36325,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0127")
 					(unit 1)
 				)
@@ -34241,6 +36413,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR087")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34315,6 +36493,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0233")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0233")
 					(unit 1)
 				)
@@ -34397,6 +36581,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0136")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34471,6 +36661,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0226")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0226")
 					(unit 1)
 				)
@@ -34562,6 +36758,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D33")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34636,6 +36838,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR039")
 					(unit 1)
 				)
@@ -34722,6 +36930,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C44")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34804,6 +37018,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34878,6 +37098,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR042")
 					(unit 1)
 				)
@@ -34960,6 +37186,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR081")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35034,6 +37266,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0183")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0183")
 					(unit 1)
 				)
@@ -35116,6 +37354,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35190,6 +37434,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0101")
 					(unit 1)
 				)
@@ -35270,6 +37520,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "R1")
 					(unit 1)
 				)
@@ -35356,6 +37612,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C34")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35430,6 +37692,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR075")
 					(unit 1)
 				)
@@ -35512,6 +37780,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35590,6 +37864,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35664,6 +37944,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0128")
 					(unit 1)
 				)
@@ -35750,6 +38036,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35824,6 +38116,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0173")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0173")
 					(unit 1)
 				)
@@ -35915,6 +38213,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D69")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36002,6 +38306,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D53")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36076,6 +38386,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0194")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0194")
 					(unit 1)
 				)
@@ -36167,6 +38483,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D74")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36254,6 +38576,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36336,6 +38664,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C45")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36410,6 +38744,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0187")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0187")
 					(unit 1)
 				)
@@ -36492,6 +38832,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR094")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36566,6 +38912,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0148")
 					(unit 1)
 				)
@@ -36648,6 +39000,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0129")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36722,6 +39080,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR025")
 					(unit 1)
 				)
@@ -36804,6 +39168,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36878,6 +39248,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0158")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0158")
 					(unit 1)
 				)
@@ -36960,6 +39336,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR089")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37034,6 +39416,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0178")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0178")
 					(unit 1)
 				)
@@ -37116,6 +39504,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0175")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37194,6 +39588,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "C9")
 					(unit 1)
 				)
@@ -37285,6 +39685,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D46")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37359,6 +39765,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0149")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0149")
 					(unit 1)
 				)
@@ -37441,6 +39853,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37515,6 +39933,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0219")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0219")
 					(unit 1)
 				)
@@ -37606,6 +40030,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D44")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37688,6 +40118,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C38")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37762,6 +40198,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR059")
 					(unit 1)
 				)
@@ -37844,6 +40286,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR077")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37922,6 +40370,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0161")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37996,6 +40450,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR067")
 					(unit 1)
 				)
@@ -38082,6 +40542,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C54")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38156,6 +40622,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR09")
 					(unit 1)
 				)
@@ -38247,6 +40719,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D36")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38330,6 +40808,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "D35")
 					(unit 1)
 				)
@@ -38421,6 +40905,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D52")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38508,6 +40998,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D50")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38590,6 +41086,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C30")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38668,6 +41170,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0210")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38742,6 +41250,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR066")
 					(unit 1)
 				)
@@ -38828,6 +41342,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "C62")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38902,6 +41422,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0105")
 					(unit 1)
 				)
@@ -38993,6 +41519,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D55")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39076,6 +41608,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "D18")
 					(unit 1)
 				)
@@ -39167,6 +41705,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D79")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39241,6 +41785,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0222")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0222")
 					(unit 1)
 				)
@@ -39323,6 +41873,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39397,6 +41953,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR079")
 					(unit 1)
 				)
@@ -39479,6 +42041,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "#PWR0237")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39553,6 +42121,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0208")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0208")
 					(unit 1)
 				)
@@ -39644,6 +42218,12 @@
 					(unit 1)
 				)
 			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
+					(reference "D34")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39718,6 +42298,12 @@
 		(instances
 			(project "rgb_leds"
 				(path "/10f57aeb-adc0-45d2-918e-a3ba33fb517f"
+					(reference "#PWR0166")
+					(unit 1)
+				)
+			)
+			(project "octo_keyboard"
+				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/893a7fdc-6f34-4501-993f-cd0bf5707e1d"
 					(reference "#PWR0166")
 					(unit 1)
 				)

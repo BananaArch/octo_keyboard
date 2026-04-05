@@ -3174,7 +3174,7 @@
 		(uuid "f4cf2b51-f89a-4968-a973-d2a1785fceb8")
 	)
 	(hierarchical_label "COL10"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 115.57 180)
 		(effects
 			(font
@@ -3185,7 +3185,7 @@
 		(uuid "0afa3623-3ba5-4234-b574-fc0bdd624652")
 	)
 	(hierarchical_label "COL12"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 69.85 180)
 		(effects
 			(font
@@ -3196,7 +3196,7 @@
 		(uuid "0b61d8af-52b7-43e4-84df-9f0247e02c6c")
 	)
 	(hierarchical_label "ROW3"
-		(shape bidirectional)
+		(shape output)
 		(at 124.46 105.41 180)
 		(effects
 			(font
@@ -3207,7 +3207,7 @@
 		(uuid "0cab6fdf-3203-47b0-a5e8-5e3cb6393c42")
 	)
 	(hierarchical_label "COL4"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 72.39 0)
 		(effects
 			(font
@@ -3229,7 +3229,7 @@
 		(uuid "175ef023-ff7c-49f5-a1bc-06a33a631636")
 	)
 	(hierarchical_label "ROW2"
-		(shape bidirectional)
+		(shape output)
 		(at 124.46 85.09 180)
 		(effects
 			(font
@@ -3240,7 +3240,7 @@
 		(uuid "1c23f413-c530-490c-b976-ee316fa07e80")
 	)
 	(hierarchical_label "COL8"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 102.87 180)
 		(effects
 			(font
@@ -3251,7 +3251,7 @@
 		(uuid "21016512-1c5c-4b63-84bc-3bc11fa74c10")
 	)
 	(hierarchical_label "COL13"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 62.23 180)
 		(effects
 			(font
@@ -3273,7 +3273,7 @@
 		(uuid "26d3a6ab-ec72-4dcc-ae41-c8c6264f91dd")
 	)
 	(hierarchical_label "COL9"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 113.03 180)
 		(effects
 			(font
@@ -3306,7 +3306,7 @@
 		(uuid "5197fd90-8580-4aa7-ad72-e630b33ecbb0")
 	)
 	(hierarchical_label "COL3"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 59.69 0)
 		(effects
 			(font
@@ -3317,7 +3317,7 @@
 		(uuid "55452bd0-57f7-4ac3-8c5f-bfca6789d6b5")
 	)
 	(hierarchical_label "COL1"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 54.61 0)
 		(effects
 			(font
@@ -3328,7 +3328,7 @@
 		(uuid "63063a95-36e5-41f4-9424-feebabe359b2")
 	)
 	(hierarchical_label "COL5"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 74.93 0)
 		(effects
 			(font
@@ -3339,7 +3339,7 @@
 		(uuid "64503690-c856-4607-b6b6-eeb56472582f")
 	)
 	(hierarchical_label "ROW1"
-		(shape bidirectional)
+		(shape output)
 		(at 124.46 82.55 180)
 		(effects
 			(font
@@ -3350,7 +3350,7 @@
 		(uuid "68ac6aa5-bd42-4f2e-88b6-36238fbc9957")
 	)
 	(hierarchical_label "ROW4"
-		(shape bidirectional)
+		(shape output)
 		(at 124.4532 107.9552 180)
 		(effects
 			(font
@@ -3372,7 +3372,7 @@
 		(uuid "7ca972ab-79f2-4b0d-bf76-49686ad35231")
 	)
 	(hierarchical_label "COL11"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 118.11 180)
 		(effects
 			(font
@@ -3416,7 +3416,7 @@
 		(uuid "ab2f4d8e-d28c-4173-8575-fae0a4e8740c")
 	)
 	(hierarchical_label "COL14"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 64.77 180)
 		(effects
 			(font
@@ -3449,7 +3449,7 @@
 		(uuid "b27bb91e-7a56-4ea5-92b7-c510174f8751")
 	)
 	(hierarchical_label "COL2"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 57.15 0)
 		(effects
 			(font
@@ -3471,7 +3471,7 @@
 		(uuid "c55b503d-1e2e-4595-9743-21fad9a44f81")
 	)
 	(hierarchical_label "COL7"
-		(shape bidirectional)
+		(shape input)
 		(at 124.46 100.33 180)
 		(effects
 			(font
@@ -3482,7 +3482,7 @@
 		(uuid "ce16b494-8952-45d7-9cc0-3b8eca6b4a57")
 	)
 	(hierarchical_label "ROW0"
-		(shape bidirectional)
+		(shape output)
 		(at 124.46 80.01 180)
 		(effects
 			(font
@@ -3492,7 +3492,7 @@
 		)
 		(uuid "dd10fe06-7c32-492d-8646-babf5fb13e0c")
 	)
-	(hierarchical_label "SCREEN_DS"
+	(hierarchical_label "SCREEN_DC"
 		(shape bidirectional)
 		(at 168.91 67.31 0)
 		(effects
@@ -3504,7 +3504,7 @@
 		(uuid "e8fe33b2-8c11-45c9-858f-669dcb2a7380")
 	)
 	(hierarchical_label "ROW5"
-		(shape bidirectional)
+		(shape output)
 		(at 124.4532 110.4952 180)
 		(effects
 			(font
@@ -3515,7 +3515,7 @@
 		(uuid "ef935c70-3ecb-4171-96c4-7ba90482a5b7")
 	)
 	(hierarchical_label "COL6"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 77.47 0)
 		(effects
 			(font
@@ -3526,7 +3526,7 @@
 		(uuid "f0607dd3-1b16-425f-88bf-f84fd8734070")
 	)
 	(hierarchical_label "COL0"
-		(shape bidirectional)
+		(shape input)
 		(at 168.91 52.07 0)
 		(effects
 			(font
@@ -3607,7 +3607,7 @@
 			(uuid "f8d69f29-4ecc-43cb-8270-56c05f0b1a24")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "TP4")
 					(unit 1)
@@ -3695,7 +3695,7 @@
 			(uuid "691a8556-4e50-4f1f-9fd1-6e785bb8a920")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C11")
 					(unit 1)
@@ -3779,7 +3779,7 @@
 			(uuid "7e42bb72-2dc0-4059-80ec-4ef8d1ae9076")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR012")
 					(unit 1)
@@ -3863,7 +3863,7 @@
 			(uuid "519887a0-ee3b-44d7-9209-c830f510cc03")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR013")
 					(unit 1)
@@ -3951,7 +3951,7 @@
 			(uuid "27621e41-970e-4be7-bc79-6b892c43ef30")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C4")
 					(unit 1)
@@ -4035,7 +4035,7 @@
 			(uuid "25543e14-9808-4d3b-947f-d70fa2eb61a7")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR018")
 					(unit 1)
@@ -4120,7 +4120,7 @@
 			(uuid "cb10fa13-8e0b-4d85-9d9b-33001bb8bafa")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "TP2")
 					(unit 1)
@@ -4205,7 +4205,7 @@
 			(uuid "fbee3078-fad5-4e71-8a17-0c159f0918e7")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "TP5")
 					(unit 1)
@@ -4289,7 +4289,7 @@
 			(uuid "c17b4455-2b29-4932-8755-742d0f86113c")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR015")
 					(unit 1)
@@ -4373,7 +4373,7 @@
 			(uuid "2983b95a-8f18-4063-85a4-67f9aca194dd")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR011")
 					(unit 1)
@@ -4461,7 +4461,7 @@
 			(uuid "b856d823-ab47-47fd-867a-6012881d8a7f")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C8")
 					(unit 1)
@@ -4545,7 +4545,7 @@
 			(uuid "98d6ddfe-3854-4290-84a3-84f2871e3a7b")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR017")
 					(unit 1)
@@ -4630,7 +4630,7 @@
 			(uuid "158b03dc-91ed-4fe3-9549-1a86f461e1de")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "TP1")
 					(unit 1)
@@ -4714,7 +4714,7 @@
 			(uuid "162e0169-7af0-40b2-bd59-6ff524f6d4a0")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR016")
 					(unit 1)
@@ -4843,7 +4843,7 @@
 			(uuid "503ee45b-83fe-45a1-b10b-f217c4742709")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "S1")
 					(unit 1)
@@ -4928,7 +4928,7 @@
 			(uuid "d66dbcbb-eda6-4957-af43-c9d258cb3660")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "TP3")
 					(unit 1)
@@ -5016,7 +5016,7 @@
 			(uuid "b4a1d6b8-9ab2-482b-989b-f77e2d0672db")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "R3")
 					(unit 1)
@@ -5099,6 +5099,12 @@
 			(uuid "b571ad3d-2acd-48de-b5b2-2981b54041a4")
 		)
 		(instances
+			(project "MCU"
+				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/675d025f-eeea-4859-baf0-94302a86ce27"
 					(reference "#PWR023")
@@ -5181,7 +5187,7 @@
 			(uuid "7ad342c9-a37f-4088-8bba-a7c0ad0ad216")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C9")
 					(unit 1)
@@ -5310,7 +5316,7 @@
 			(uuid "1f2e609b-cd2f-4ca0-b8ff-e5a04e675a0c")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "S2")
 					(unit 1)
@@ -5394,7 +5400,7 @@
 			(uuid "a3459ded-6662-4f62-9791-7ec4fbf57f41")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "#PWR014")
 					(unit 1)
@@ -5482,6 +5488,12 @@
 			(uuid "0c464e58-ea9e-48e0-8ff4-c675a291a411")
 		)
 		(instances
+			(project "MCU"
+				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
+					(reference "R5")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/675d025f-eeea-4859-baf0-94302a86ce27"
 					(reference "R5")
@@ -5564,6 +5576,12 @@
 			(uuid "0ecaec43-e006-449b-9b06-d2479de72a68")
 		)
 		(instances
+			(project "MCU"
+				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/675d025f-eeea-4859-baf0-94302a86ce27"
 					(reference "R4")
@@ -5646,7 +5664,7 @@
 			(uuid "494d5949-3141-4ae5-8d86-54f88464aad5")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C6")
 					(unit 1)
@@ -5734,7 +5752,7 @@
 			(uuid "e5655133-9962-44c1-9dff-f2e7053e2832")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C10")
 					(unit 1)
@@ -5961,7 +5979,7 @@
 			(uuid "7ea47ad8-8dfb-4fbf-bda4-3c0a7043d714")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "U3")
 					(unit 1)
@@ -6049,7 +6067,7 @@
 			(uuid "df113f41-420f-4c76-a67b-ff3db2b8fc9b")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C5")
 					(unit 1)
@@ -6137,7 +6155,7 @@
 			(uuid "1f43bd25-5314-4262-9ae2-572f62bad23d")
 		)
 		(instances
-			(project "MCU_and_EEPROM"
+			(project "MCU"
 				(path "/e0c3ce79-4e6b-469a-8326-344d8040e74c"
 					(reference "C7")
 					(unit 1)

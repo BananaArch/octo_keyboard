@@ -2942,6 +2942,12 @@
 			(uuid "8e7c7d61-0ca1-4305-bf05-112304fd998b")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "J1")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "J1")
@@ -3021,6 +3027,12 @@
 			(uuid "c5d3fc19-3e09-4348-b676-7bb64599044c")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "R2")
@@ -3103,6 +3115,12 @@
 			(uuid "7e615bcb-2dbc-4134-b99e-af5f5e78a282")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "C1")
@@ -3181,6 +3199,12 @@
 			(uuid "6e09281a-5ead-49df-bfd0-77c3793aab60")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR03")
@@ -3259,6 +3283,12 @@
 			(uuid "7e490dca-fef3-443c-bb71-6f857f725f73")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#FLG01")
@@ -3337,6 +3367,12 @@
 			(uuid "1946825a-1844-4e92-9242-024ad4627bab")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR05")
@@ -3415,6 +3451,12 @@
 			(uuid "72691622-25fc-4d14-917f-c8d00505fd6e")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR08")
@@ -3493,6 +3535,12 @@
 			(uuid "93da93b0-3fb3-43b6-8188-9792c11bb741")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR01")
@@ -3571,6 +3619,12 @@
 			(uuid "54cdf23a-d216-46fd-8475-352fcc47391e")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#FLG02")
@@ -3653,6 +3707,12 @@
 			(uuid "8a8c8c3a-5aa6-44a8-bee2-c14310afd953")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "C2")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "C2")
@@ -3731,6 +3791,12 @@
 			(uuid "057ed014-8dba-4485-ae3f-d7e6870c54d6")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR02")
@@ -3809,6 +3875,12 @@
 			(uuid "121b24ec-2137-48b6-9528-8d2c745d08eb")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#FLG03")
@@ -3890,6 +3962,12 @@
 			(uuid "edb2b7cb-2086-41c4-b587-4e439918cc25")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "F1")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "F1")
@@ -3984,6 +4062,12 @@
 			(uuid "75882e75-e036-4a4f-8ca3-58bb863c2e0e")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "U2")
@@ -4062,6 +4146,12 @@
 			(uuid "b8c063d9-67f2-4169-89a1-e5ddc669ff5a")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR04")
@@ -4140,6 +4230,12 @@
 			(uuid "ca194e83-77db-4568-a714-5aad7d9f5e42")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR07")
@@ -4218,6 +4314,12 @@
 			(uuid "4bf3e3c2-55d2-449b-a76c-8415494c0d24")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR06")
@@ -4296,6 +4398,12 @@
 			(uuid "220fa639-fac1-4828-aae3-6df33eab10e3")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR09")
@@ -4375,6 +4483,12 @@
 			(uuid "465ca942-8c0d-46ff-8b95-fc1d46e6cfbd")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "R1")
@@ -4453,6 +4567,12 @@
 			(uuid "dde7fe95-30f3-4371-a7d3-267664a69e50")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "#PWR010")
@@ -4550,6 +4670,12 @@
 			(uuid "d3f7c58f-f443-401b-9697-efe5d2dc1336")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "U1")
@@ -4581,7 +4707,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".1 uF"
+		(property "Value" "0.1 uF"
 			(at 236.22 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4632,6 +4758,12 @@
 			(uuid "57902077-8098-4bc0-981c-1e5cbed343ad")
 		)
 		(instances
+			(project "power_and_usb"
+				(path "/b6a035cc-edeb-4159-8781-9f0e3e36ae83"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 			(project "octo_keyboard"
 				(path "/e2f6b5f5-4c68-42ad-a343-f16c1cb3ab86/6d3060b6-5cde-4c96-8702-b6db72026b7d"
 					(reference "C3")
@@ -4640,4 +4772,10 @@
 			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )

@@ -2481,10 +2481,10 @@
 		)
 		(uuid "bcbd8fc0-e76b-4aa3-beb3-d598e3829636")
 	)
-	(text_box "The MCP1755T-33 fixed-voltage regulator converts the 5 V from the USB VBUS into a regulated 3.3 V supply. The maximum output current is 300 mA. The schematic is based on the application circuit provided in the datasheet. The datasheet recommends input and output capacitors of at least 1 µF to ensure regulator stability. We instead chose 10 µF capacitors to improve transient response and reduce output noise and ripple. Additionally, a 0.1 µF ceramic decoupling capacitor is placed in parallel to provide better high-frequency filtering and quickly respond to fast transient currents."
+	(text_box "The MCP1755T-33 fixed-voltage regulator converts the 5 V from the USB VBUS into a regulated 3.3 V supply for use by the STM32 and other peripherals. The maximum output current is 300 mA. The schematic is based on the application circuit provided in the datasheet. The datasheet recommends input and output capacitors of at least 1 µF to ensure regulator stability. We instead chose 10 µF capacitors to improve transient response and reduce output noise and ripple. Additionally, a 0.1 µF ceramic decoupling capacitor is placed in parallel to provide better high-frequency filtering and quickly respond to fast transient currents.\n"
 		(exclude_from_sim no)
 		(at 176.53 69.9278 0)
-		(size 93.98 16.2161)
+		(size 93.98 18.2607)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width -0.0001)
@@ -2523,10 +2523,10 @@
 		)
 		(uuid "7c3af2d6-59aa-47d6-8a43-d257d5a0c257")
 	)
-	(text_box "For overvoltage & ESD protection\n"
+	(text_box "Protects signal lines from transient overvoltage events such as ESD."
 		(exclude_from_sim no)
 		(at 114.3 59.69 0)
-		(size 48.26 3.9483)
+		(size 48.26 5.9929)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width -0.0001)

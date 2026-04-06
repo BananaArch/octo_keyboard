@@ -27,6 +27,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 46.99) (xy 143.51 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e1b5ab1-f23b-4487-80cf-e960d6b5ad43")
+	)
+	(wire
+		(pts
 			(xy 162.56 73.66) (xy 179.07 73.66)
 		)
 		(stroke
@@ -214,6 +224,16 @@
 			(type default)
 		)
 		(uuid "ca726bd3-f855-41d3-aa7e-c8a37e1f2f10")
+	)
+	(wire
+		(pts
+			(xy 146.05 46.99) (xy 146.05 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0fc94da-424e-41a5-9055-44019756727a")
 	)
 	(wire
 		(pts
@@ -918,6 +938,26 @@
 		(pin "SCREEN_SDA" bidirectional
 			(at 137.16 46.99 270)
 			(uuid "d23bbbe2-4cb3-4c71-8e9a-2c9907b88651")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HAPTIC_MOTOR" input
+			(at 146.05 46.99 270)
+			(uuid "9081c7a8-e195-466e-8116-616a4ed36af9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPEAKER" input
+			(at 143.51 46.99 270)
+			(uuid "579a51e7-7765-4af2-b0a7-1f694f981aac")
 			(effects
 				(font
 					(size 1.27 1.27)

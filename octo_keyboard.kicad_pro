@@ -432,7 +432,7 @@
     ],
     [
       "675d025f-eeea-4859-baf0-94302a86ce27",
-      "MCU"
+      "MCU (page 3)"
     ],
     [
       "bfd332b4-da57-425a-99ac-2633d90443c6",
@@ -441,6 +441,10 @@
     [
       "893a7fdc-6f34-4501-993f-cd0bf5707e1d",
       "RGB_LEDs"
+    ],
+    [
+      "735cb541-7b7a-461f-b38e-cddf54100f29",
+      "Peripherals"
     ]
   ],
   "text_variables": {},
